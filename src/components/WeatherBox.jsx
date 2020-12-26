@@ -44,7 +44,7 @@ export default class WeatherBox extends React.Component {
           max_temp: response.data.main.temp_max,
           min_temp: response.data.main.temp_min,
           weather: response.data.weather[0].main,
-          icon: 'http://openweathermap.org/img/wn/' + response.data.weather[0].icon + '@2x.png',
+          icon: 'https://openweathermap.org/img/wn/' + response.data.weather[0].icon + '@2x.png',
         });
       })
       .catch(function (error) {
