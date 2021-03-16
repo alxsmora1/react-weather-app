@@ -1,7 +1,7 @@
 # React Weather App
 
 ![version](https://img.shields.io/badge/version-1.1.0-blue.svg)
-![Build](https://github.com/alxsmora1/react-weather-app/workflows/action.yml/badge.svg)
+![CI/CD](https://github.com/alxsmora1/portfolio/actions/workflows/react-weather-app.yml/badge.svg)
 ![License](https://img.shields.io/github/license/alxsmora1/react-weather-app)
 ![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
 
